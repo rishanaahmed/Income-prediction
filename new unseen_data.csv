@@ -1,0 +1,11 @@
+class_of_worker_ Not in universe,class_of_worker_ Private,education_ Children,major_occupation_code_ Not in universe or children,race_ Not in universe,capital_gains_ Full-time schedules,region_of_previous_residence_ Joint both under 65,region_of_previous_residence_ Nonfiler,detailed_household_summary_in_household_ Child 18 never marr not in subfamily,instance_weight_ Child under 18 never married,country_of_birth_father_ Both parents present,country_of_birth_father_ Not in universe,industry_code,occupation_code,family_members_under_18,weeks_worked_in_year
+1,0,0,0,0,0,1,0,0,1,1,0,25,10,0,52
+0,1,0,1,0,1,0,1,1,0,0,1,30,12,1,48
+0,1,1,0,1,1,0,0,1,1,0,1,28,14,2,36
+1,0,1,0,0,0,1,1,0,1,1,0,22,8,0,40
+1,0,0,1,0,1,0,1,0,0,1,0,20,7,3,45
+0,1,0,1,1,0,1,0,1,1,0,1,35,16,1,50
+0,0,1,0,0,1,1,0,0,1,1,0,40,11,0,38
+1,1,0,1,0,1,0,1,1,0,1,0,32,13,2,44
+0,1,0,1,1,0,1,0,1,1,0,1,27,9,1,30
+1,0,1,0,0,1,0,1,0,0,1,0,29,15,0,39
